@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Niru Patel 👋
 
-<!--
-**jiyaan/jiyaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack / Backend Engineer with 11+ years of experience in PHP, Laravel, and Vue.js.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- PHP / Laravel
+- MySQL / PostgreSQL
+- REST APIs
+- Vue.js / JavaScript
+- Docker
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- Medical Management System
+- Consultant Booking Platform
+- DigitiseIT Document Management
+
+## 🌎 Location
+Canada 🇨🇦
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/niru-patel-5701738a/
+Email: patelniru.201289@gmail.com
