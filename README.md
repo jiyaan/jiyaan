@@ -19,5 +19,5 @@ Senior Full-Stack / Backend Engineer with 11+ years of experience in PHP, Larave
 Canada 🇨🇦
 
 ## 📫 Contact
-LinkedIn: https://www.linkedin.com/in/niru-patel-5701738a/
+LinkedIn: https://www.linkedin.com/in/niru-patel-025803285/
 Email: patelniru.201289@gmail.com
